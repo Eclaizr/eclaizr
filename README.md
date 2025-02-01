@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning : **Kubernetes**
 
-- ⚡ fact : **I <span style="display: none;">(really)</span> like cats**
+- ⚡ fact : **I <span title="(really)">like cats</span>**
 
 </p>
 
