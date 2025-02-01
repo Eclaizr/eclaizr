@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning : **Kubernetes**
 
-- ⚡ fact : **I <span style="opacity: 0; transition: opacity 0.3s;" onmouseover="this.style.opacity=1;" onmouseout="this.style.opacity=0;">(really)</span> like cats**
-
+- ⚡ fact : **I <span title="!!!!!!!">(really) like cats</span>**
 </p>
 
 <p align="center">
