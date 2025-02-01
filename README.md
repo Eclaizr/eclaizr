@@ -7,9 +7,6 @@
 
 - ⚡ fact : **I (really) like cats**
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://discord.gg/eclairz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eclairz" height="30" width="40" /></a>
 </p>
 
 ![https://media.giphy.com/media/xyz123/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY3NW1ubG5vM3Ayb3ZyMXJlbjZpeTE2ZzRwaHBvOTZud3dqMjRsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
