@@ -1,4 +1,7 @@
-<h1 align="center">Hi !! I'm Eclairz</h1>
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="32" height="32">
+</picture> I'm Eclairz</h1>
 <h3 align="center">Student in networking and computer sciences</h3>
 
 - 🔭 I’m currently working on : **network diagnostic tool / open ran cnf deployment**
