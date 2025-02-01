@@ -1,13 +1,13 @@
 <h1 align="center">Hi !! I'm Eclairz</h1>
 <h3 align="center">Student in networking and computer sciences</h3>
 
-- 🔭 I’m currently working on **network diagnostic tool / open ran cnf deployment**
+- 🔭 I’m currently working on : **network diagnostic tool / open ran cnf deployment**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning : **Kubernetes**
 
-- ⚡ fact **I like cats**
+- ⚡ fact : **I (really) like cats**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://discord.gg/eclairz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eclairz" height="30" width="40" /></a>
 </p>
