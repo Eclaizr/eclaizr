@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning : **Kubernetes**
 
-- ⚡ fact : **I <span title="(really)">like cats</span>**
+- ⚡ fact : **I <span style="visibility: hidden; position: absolute;" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';">(really)</span> like cats**
 
 </p>
 
