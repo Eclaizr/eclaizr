@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on : **network diagnostic tool / open RAN**
 
-- 🌱 I’m currently learning : **Kubernetes**
+- 🌱 I’m currently learning : **Kubernetes** / How to properly use git
 
 - ⚡ fact : **I <span title="!!!!!!!">(really) like cats</span>**
 </p>
