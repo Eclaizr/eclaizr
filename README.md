@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on : **network diagnostic tool / open RAN**
 
-- 🌱 I’m currently learning : **Kubernetes** / How to properly use git
+- 🌱 I’m currently learning : **Kubernetes**
 
 - ⚡ fact : **I <span title="!!!!!!!">(really) like cats</span>**
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t0cjBnN2gxYXE0NDVtbTQxc2RnaXpicmJ6YW85enlmOGo5bHNvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2RiU1RUjyh4C4/giphy.gif" width="300" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZhZG5hdnY2aTQ2dTU2ZGV1eGwyNzNuYWtxajNnbzNzYWtxdzYzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
