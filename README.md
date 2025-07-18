@@ -4,7 +4,7 @@
 </picture> I'm Eclairz</h1>
 <h3 align="center">Student in networking and computer sciences</h3>
 
-- 🔭 I’m currently working on : **Open RAN**
+- 🔭 I’m currently working on : **Open RAN, a cooking recipe application ☺️**
 
 - 🌱 I’m currently learning : **Kubernetes, C#**
 
