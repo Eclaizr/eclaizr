@@ -4,7 +4,8 @@
 </picture> I'm Eclairz</h1>
 <h3 align="center">Student in networking and computer sciences</h3>
 
-- 🔭 I’m currently working on : **Open RAN / RAN / IMS integration, and an intelligent cooking recipe vault application as a personnal project**
+- 🔭 I’m currently working on : **Open RAN / RAN / IMS solutions integration**
+- 👩🏻‍🍳 ₊˚🍪 Personal project: **Developping an intelligent cooking recipe vault app**
 
 - 🌱 I’m currently learning : **Kubernetes, C#**
 
