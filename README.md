@@ -1,8 +1,8 @@
-<h1 align="center">Hi <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="✌" width="32" height="32">
-</picture> I'm Eclairz</h1>
-<h3 align="center">Student in networking and computer sciences</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20!%20I'm%20Eclairz&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4&text-align=center" alt="venom banner"/>
+</p>
+
+<h3 align="center">Student in networking and computer sciences</h3><br/>
 
 - 🔭 I’m currently working on : **Open RAN / RAN / IMS solutions integration**
 - 👩🏻‍🍳 ₊˚🍪 Personal project : **Developing an intelligent cooking recipe vault app**
