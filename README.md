@@ -5,7 +5,7 @@
 <h3 align="center">Student in networking and computer sciences</h3><br/>
 
 - 🔭 I’m currently working on : **Open RAN / RAN / IMS solutions integration**
-- 👩🏻‍🍳 ₊˚🍪 Personal project : **Developing an intelligent cooking recipe vault app**
+- 👩🏻‍🍳 ₊˚🍪 Personal projects : **Developing an intelligent cooking recipe vault app, trying to restore old projects that I did when I wasn't familiar with Github**
 
 - 🌱 I’m currently learning : **Kubernetes, C#**
 
