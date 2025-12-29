@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning : **Kubernetes, C#**
 
-- ⚡ fact : **I <span title="!!!!!!!">(really) like cats</span>**, and one of my favorite thing is going to concerts |-/
+- ⚡ facts about me : **I <span title="!!!!!!!">(really) like cats</span>**, music & concert enjoyer |-/
 </p>
 
 <p align="center">
