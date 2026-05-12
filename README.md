@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning and practicing to use : **Kubernetes, Flask, Python, Open5GS, srsRAN**
 
-- ⚡ facts about me : **I <span title="!!!!!!!">(really) like cats</span>** + music enjoyer |-/
+- ⚡ facts about me : **I <span title="!!!!!!!">(really) like cats</span>** + music enjoyer |-/🤘
 </p>
 
 <p align="center">
