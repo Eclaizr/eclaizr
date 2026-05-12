@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on : **automate the deployment of 5G and open-source network functions / IMS integration**
 - 👩🏻‍🍳 ₊˚🍪 Personal projects : **Developing an intelligent cooking recipe vault app, trying to restore old projects that I did when I wasn't familiar with Github**
 
-- 🌱 I’m currently learning and practicing to use : **Kubernetes, Flask, Python, Open5GS, srsRAN**
+- 🌱 I’m currently learning and practicing : **Kubernetes, Flask, Python, Open5GS, srsRAN**
 
 - ⚡ facts about me : **I <span title="!!!!!!!">(really) like cats</span>** + music enjoyer |-/🤘
 </p>
